@@ -62,3 +62,16 @@ To get more community members involved, a voting system should be incorporated. 
 - [WordPress.org - Roadmap](https://wordpress.org/about/roadmap/)
 - [Semver.org - Semantic Versioning spec](http://semver.org/)
 - [MODX.com - Roadmap and versioning](https://docs.modx.com/revolution/2.x/getting-started/an-overview-of-modx/roadmap)
+
+
+
+
+
+—
+The semver spec calls the different types of releases patch, minor and major, and while these make sense to developers it doesn't always make sense to other users what those mean.
+
+At modmore we recently started referring to the releases by bugfix or bug-fix (instead of patch), feature (instead of minor) and breaking (instead of major). These terms should be easier for people to understand, and still communicates what semver communicates in the exact same way.
+
+Perhaps this is something to consider for the MODX project as well, which would require buy-in from core integrators and contributors, documentation updates, perhaps tweaks on the site.
+
+I know @gpsietzema mentioned something about version numbering at the last meeting so I'm curious to hear his thoughts on that, but wanted to dump this idea somewhere before I forget it again.
