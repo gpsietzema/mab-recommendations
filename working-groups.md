@@ -48,6 +48,6 @@ Other duties of the Working Group:
 - Supply the MAB with roadmap-adjustments. The Working Group activities should be added to the Roadmap, if the activities are code/design/accessibility related.
 
 ## How does the Working Group communicate?
-- Meeting notes are shared in a Public Google Drive folder, within the MAB-folder. If a modx.org community-driven project-website is launched, the notes will be published there and the Google Drive folder will be deprecated.
+- Meeting notes are shared in a Public Google Drive folder, within the MAB-folder. If a modx.org community-driven project-website would be launched launched, the notes will be published there and the Google Drive folder will be deprecated.
 - Code will be in Github, with one branch with Working Group name within it. PR's will be done to that branch by Working Group-members.
 - (Private) Discussions happen in a private Slack-channel on the MODX Community Slack. Public discussions can happen on Github in the designated MAB-projects.
