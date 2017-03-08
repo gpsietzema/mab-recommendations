@@ -1,5 +1,4 @@
 # Extras Repository
----
 
 An improved home for quality MODX Extras, introducing automated and user-generated quality checks, relevant Extra information and Github integration.
 
@@ -11,16 +10,15 @@ An improved home for quality MODX Extras, introducing automated and user-generat
 
 The current extras repository is of age and behaves like that. Compared to competitive CMS repositories it misses essential features and development is stagnating.
 
-Besides the above, the quality of the current extras and the listings of those extras is limited. Therefore quality standards should be implemented to guarantee better quality. If an extra fails to meet these standards, it is rejected.
+Besides the above, the quality of the current extras and the listings of those extras is limited. Therefore quality requirements should be implemented to guarantee better quality. If an extra fails to meet these standards, there should be consequences for those extras.
 
-This recommendation aims to start off with an improved Extras repository, define quality standards, define possible future improvements and making sure future development is easier and not limited to modx.com maintainers.
+This recommendation aims to start off with an improved Extras repository, define quality requirements, define possible future improvements and making sure future development is easier and not limited to modx.com maintainers.
 
 ## Relevant Recommendations
 * [Refactor MODX Revolution 3.x as Slim 3.x App, by Jason Coward](https://github.com/modxcms/mab-recommendations/blob/master/slim-refactor.md)
 * [A RESTful API & Steps to move away from ExtJS, by Mark Hamstra](https://github.com/modxcms/mab-recommendations/blob/master/restful-api-move-from-extjs.md)
 
 ## Recommendation
-
 
 
 Heavily rely on Github?
