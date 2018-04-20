@@ -25,6 +25,7 @@ Not yet started:
 - [ ] Welcome widget
 - [ ] Links widget
 - [ ] Preview-widget which links to Extras
+- [ ] Implementing A11Y (Wayne/John from MODX) after Resources are finished
 
 MODX 3.1
 ---------
