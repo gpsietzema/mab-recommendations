@@ -26,15 +26,20 @@ Not yet started:
 - [ ] Links widget
 - [ ] Preview-widget which links to Extras
 
-MODX 3.1: Headless
+MODX 3.1
+---------
+- Improved installer
+- Installable themes at installation
+
+MODX 3.2: Headless
 ---------
 - Decoupling the Manager interface from the PHP codebase
 - Create a new RESTful API for the MODX
 - Rewrite the current connectors to work with the API
 
-MODX 3.2: Picasso
+MODX 3.3: Picasso
 ---------
-- Media browser improvements
+- Media browser improvements ?
 
 MODX 4: Aurora/Dawn
 ---------
