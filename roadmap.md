@@ -1,4 +1,5 @@
 # MODX Roadmap
+**Please note: this is a DRAFT**
 
 MODX 3.0
 ---------
@@ -8,6 +9,22 @@ MODX 3.0
 - Flysystem integration
 - Refactored media sources
 
+Finished for MODX 3.0:
+- [x] Extract dependencies
+
+In testing for MODX 3.0:
+- [ ] Login
+- [ ] Dasbhoard
+- [ ] Flysystem / Mediasources
+
+In development:
+- [ ] Template preview
+- [ ] Resource editing
+
+Not yet started:
+- [ ] Welcome widget
+- [ ] Links widget
+- [ ] Preview-widget which links to Extras
 
 MODX 3.1: Headless
 ---------
@@ -15,7 +32,11 @@ MODX 3.1: Headless
 - Create a new RESTful API for the MODX
 - Rewrite the current connectors to work with the API
 
-MODX 3.2: Facelift
+MODX 3.2: Picasso
 ---------
-- New manager interface
-- 
+- Media browser improvements
+
+MODX 4: Aurora/Dawn
+---------
+- New manager interface, using the API (without the current connectors)
+- Mobile first design/UX
